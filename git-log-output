@@ -1,0 +1,31 @@
+commit 25162afef6a4e73159e42eeac971c5179fc6a773
+Author: Matthew Escobar <mde27@njit.edu>
+Date:   Mon Feb 16 16:25:08 2026 -0500
+
+    Revert "Added newfile.txt for Part 7"
+    
+    This reverts commit 46e90cd32748bbfb08e111732831b5caff288b66.
+
+commit 46e90cd32748bbfb08e111732831b5caff288b66
+Author: Matthew Escobar <mde27@njit.edu>
+Date:   Mon Feb 16 16:23:37 2026 -0500
+
+    Added newfile.txt for Part 7
+
+commit a76983ff05033cd16c9fa63219f5017db98dfa20
+Author: Matthew Escobar <mde27@njit.edu>
+Date:   Mon Feb 16 16:20:33 2026 -0500
+
+    Added my comment to hostname for Part 7
+
+commit efea3f000d10aa8e0681a947850b110ea129c111
+Author: Matthew Escobar <mde27@njit.edu>
+Date:   Mon Feb 16 15:28:59 2026 -0500
+
+    Updated os-release on experimental branch
+
+commit 79a66889f52c3acc9d6e842a6ccf4e9e4808eed0
+Author: Matthew Escobar <mde27@njit.edu>
+Date:   Mon Feb 16 15:19:06 2026 -0500
+
+    Initial commit for Lab 3 files
